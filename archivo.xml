@@ -1,0 +1,82 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<estudiante>
+    <apellido>Lucas Mero</apellido>
+    <nombre>Leixer Steeven</nombre>
+    <semestre>Sexto Semestre</semestre>
+    <paralelo> "A"</paralelo>
+    <direccion>Calle QUITO</direccion>
+    <telefono>098905222</telefono>
+    <correo>lucas@gmail.com</correo>
+
+    <apellido01>Campuzano Espinalez</apellido01>
+    <nombre01>Jose Luis</nombre01>
+    <semestre01>Quinto Semestre</semestre01>
+    <paralelo01>"A"</paralelo01>
+    <direccion01>10 de Enero</direccion01>
+    <telefono01>098816451</telefono01>
+    <correo01>campuzano@gmail.com</correo01>
+
+    <apellido02>Lopez Quijije</apellido02>
+    <nombre02>Kelvin Manuel</nombre02>
+    <semestre02>Cuarto Semestre</semestre02>
+    <paralelo02>"C"</paralelo02>
+    <direccion02>Montecristi</direccion02>
+    <telefono02>098816448</telefono02>
+    <correo02>lopez@gmail.com</correo02>
+
+    <apellido03>Reina Holguin</apellido03>
+    <nombre03>Gema Nicole</nombre03>
+    <semestre03>Sexto Semestre</semestre03>
+    <paralelo03>"B"</paralelo03>
+    <direccion03>Manta</direccion03>
+    <telefono03>0989052212</telefono03>
+    <correo03>reina@gmail.com</correo03>
+
+    <apellido04>Villalba Valencia</apellido04>
+    <nombre04>Erick Joao</nombre04>
+    <semestre04>Quinto Semestre</semestre04>
+    <paralelo04>"A"</paralelo04>
+    <direccion04>Guayaquil</direccion04>
+    <telefono04>098816847</telefono04>
+    <correo04>villalba@gmail.com</correo04>
+
+    <apellido05>Quiñonez Marin</apellido05>
+    <nombre05>Galo Xavier</nombre05>
+    <semestre05>Quinto Semestre</semestre05>
+    <paralelo05>"B"</paralelo05>
+    <direccion05>Manabi</direccion05>
+    <telefono05>0988147581</telefono05>
+    <correo05>quiñonez@gmail.com</correo05>
+
+    <apellido06>Burgos Hurtado</apellido06>
+    <nombre06>Roger Kent</nombre06>
+    <semestre06>Cuarto Semestre</semestre06>
+    <paralelo06>"D"</paralelo06>
+    <direccion06>Calle 13</direccion06>
+    <telefono06>0988145178</telefono06>
+    <correo06>Burgos@gmail.com</correo06>
+
+    <apellido07>Baque Delgado</apellido07>
+    <nombre07>Juleydy Mayelina</nombre07>
+    <semestre07>Quinto Semestre</semestre07>
+    <paralelo07>"A"</paralelo07>
+    <direccion07>10 de Enero</direccion07>
+    <telefono07>0988164123</telefono07>
+    <correo07>Baque@gmail.com</correo07>
+
+    <apellido08>Menendez Mendoza</apellido08>
+    <nombre08>Luis Armando</nombre08>
+    <semestre08>Cuarto Semestre</semestre08>
+    <paralelo08>"B"</paralelo08>
+    <direccion08>20 de Enero</direccion08>
+    <telefono08>097816451</telefono08>
+    <correo08>Menendez@gmail.com</correo08>
+
+    <apellido09>Mero Anton</apellido09>
+    <nombre09>Michael Elvis</nombre09>
+    <semestre09>Quinto Semestre</semestre09>
+    <paralelo09>"A"</paralelo09>
+    <direccion09>10 de Agosto</direccion09>
+    <telefono09>0988123456</telefono09>
+    <correo09>Mero@gmail.com</correo09>
+</estudiante>
